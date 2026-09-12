@@ -20,6 +20,8 @@ Star Launcher is a synchronized, single-channel movie website connected conceptu
 
 Edit `data/catalog.js`. A movie becomes playable only when it has both a YouTube `videoId` and `cleared: true`. The original commercial-release wish list was replaced because those full movies were not available as free authorized embeds.
 
+`data/targets.js` preserves the 100-title editorial direction separately. A target moves into the live catalog only after its full YouTube feature is verified as authorized, free to watch, and embeddable. This keeps unavailable paid titles from breaking the station without letting the channel drift away from its intended era.
+
 ```js
 {
   title: "A free full movie",
