@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  const engine = window.StarLauncherEngine;
+  const engine = window.StarLauncherEngine || window.HermitEngine;
   const catalog = window.STAR_LAUNCHER_CATALOG;
   const commercials = window.STAR_LAUNCHER_COMMERCIALS;
   const $ = id => document.getElementById(id);
