@@ -12,6 +12,6 @@ window.INFINITY_MOVIE_SOURCE={
   exclude:["trailer","clip","short","review","reaction"],
   playlists:[
     {name:"Movie Central uploads",id:"UUGBzBkV-MinlBvHBzZawfLQ"},
-    {name:"Cult Cinema Classics uploads",id:"UUycDFnpMeWzaITQSD1dWsOA"}
+    {name:"Cult Cinema Classics uploads",id:"UUfHm4flY_lRnLvl5UA9HxJQ"}
   ]
 };
